@@ -6,7 +6,6 @@ import { fortnite } from "./games/fortnite"
 import { doomEternal } from "./games/doom-eternal"
 import type { Game } from "./types"
 
-// Let's create more games to demonstrate pagination
 import { callOfDuty } from "./games/call-of-duty"
 import { assassinsCreed } from "./games/assassins-creed"
 import { theWitcher } from "./games/the-witcher"
